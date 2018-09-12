@@ -1,19 +1,22 @@
 ---
-title: "重生@Jekyll+GitHub Pages"
-description: "本博开篇，按例介绍一下搭建过程"
+title: "Jekyll+GitHub Pages"
+description: "本博开篇"
 layout: post
-date: 2014-07-04 23:23:44 +0800
+date: 2018-09-12 23:23:44 +0800
 thumbnail: http://web.chenjun.com/images/vector_jerry_8ball_by_svezate-d6lzyyh.png
 categories: [立占 | site]
-tags: [jekyll, github]
+tags: [26389, github]
 comments: yes
 ---
 
-本博开篇，Zhu8.Net Reborn!
+本博开篇
 
 **Enjoy it!**
 
 ![Jerry and the 8 Ball][1]
+
+### 这个直接拿github套过来用的，求职季为了发点技术文章。给自己立个flag，等入职之后好好研究，掌握jekyll框架。
+
 
 ### 为何用Github&Jekyll？
 
@@ -49,7 +52,4 @@ comments: yes
 回头再补充一些吧，就酱。
 
 
-  [1]: http://web.chenjun.com/images/vector_jerry_8ball_by_svezate-d6lzyyh.png "Jerry and the 8 Ball"
-  [2]: https://stackedit.io "StackEdit"
-  [3]: https://chrome.google.com/webstore/detail/stackedit/iiooodelglhkcpgbajoejffhijaclcdg?utm_source=chrome-ntp-launcher
-  [4]: https://www.dropbox.com/s/maf5zc5zoj3eqec/wordpress-to-jekyll-exporter.zip "wordpress-to-jekyll-exporter.zip"
+
